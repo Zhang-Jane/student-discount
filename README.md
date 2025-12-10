@@ -1,6 +1,8 @@
 # student-discount
+
 [![Website](https://img.shields.io/badge/Website-studentdiscount.io-blue)](https://studentdiscount.io)
 
+**阅读其他语言版本: [English](README.md) | [中文](README_zh.md)**
 
 ## 项目简介
 
