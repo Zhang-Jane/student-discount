@@ -27,12 +27,12 @@ Student Discount 是一个专门为学生整理全球各类学生优惠信息与
 
 **资源访问**
 
-[1] 学生优惠Student Discount 官方入口与开通指南 （https://studentdiscount.io）
+[1] 学生优惠官方入口与开通指南：https://studentdiscount.io
 
-[2] 浏览所有品牌- 学生优惠品牌 - Student Discount （https://studentdiscount.io/brand）
+[2] 浏览所有品牌- 学生优惠品牌：https://studentdiscount.io/brand
 
-[3] 汇聚最新教育优惠、AI 教育工具与价格变动快讯 - （https://studentdiscount.io/highlights）
+[3] 汇聚最新教育优惠、AI 教育工具与价格变动快讯：https://studentdiscount.io/highlights
 
-[4] 学生福利-免费账号（ChatGPT、Gemini、Netflix、Duolingo 等） - （https://studentdiscount.io/perks）
+[4] 学生福利-免费账号（ChatGPT、Gemini、Netflix、Duolingo 等）：https://studentdiscount.io/perks
 
-[4] 免费使用的AI工具 - https://studentdiscount.io/ai-study-tools/tools
+[4] 免费使用的AI工具：https://studentdiscount.io/ai-study-tools/tools
